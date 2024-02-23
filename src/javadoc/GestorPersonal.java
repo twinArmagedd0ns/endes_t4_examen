@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Rodrigo
  * Clase que representa un gestor de empleados
+ * @author Rodrigo
  */
 public class GestorPersonal {
 

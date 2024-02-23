@@ -1,8 +1,8 @@
 package javadoc;
 
 /**
- * @author Rodrigo
  * Clase que representa a un empleado
+ * @author Rodrigo
  */
 public class Empleado {
     // Atributos de la clase

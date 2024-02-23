@@ -7,7 +7,7 @@ class Report {
 
     void printReport() {
         // imprimir título
-        System.out.println("Título del Reporte");
+        titulo();
 
         // contenido del reporte
         System.out.println("Contenido 1...");
@@ -15,6 +15,14 @@ class Report {
         // más contenido...
 
         // imprimir conclusión
+        conclusion();
+    }
+
+    private static void conclusion() {
         System.out.println("Conclusión del Reporte");
+    }
+
+    private static void titulo() {
+        System.out.println("Título del Reporte");
     }
 }
